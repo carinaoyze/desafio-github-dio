@@ -1,6 +1,6 @@
-# desafio-github-dio
+# Desafio 1 Git/Github DIO
 
-Desafio Git/Github do Dio
+Repositório do Desafio Git/Github do Dio
 
 # Comandos do Git
 
